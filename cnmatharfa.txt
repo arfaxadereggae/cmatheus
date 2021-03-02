@@ -1,29 +1,29 @@
 #EXTM3U
 #EXTINF:-1 type="stream" tvg-id="BBB HD: Academia" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Academia
-http://lb.kstream.org/aovivo/HD_BBB_10/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_10/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB HD: Acompanhe a Casa" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Acompanhe a Casa
-http://lb.kstream.org/aovivo/HD_BBB_1/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_1/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB HD: Acompanhe a Casa 2" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Acompanhe a Casa 2
-http://lb.kstream.org/aovivo/HD_BBB_11/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_11/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB HD: Chuveiro" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Chuveiro
-http://lb.kstream.org/aovivo/HD_BBB_5/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_5/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB HD: Confessionario" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Confessionario
-http://lb.kstream.org/aovivo/HD_BBB_2/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_2/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB HD: Cozinha Vip/Xepa" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Cozinha Vip/Xepa
-http://lb.kstream.org/aovivo/HD_BBB_6/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_6/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB HD: Jardim" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Jardim
-http://lb.kstream.org/aovivo/HD_BBB_9/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_9/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB HD: Piscina" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Piscina
-http://lb.kstream.org/aovivo/HD_BBB_8/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_8/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB HD: Quarto Colorido" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Quarto Colorido
-http://lb.kstream.org/aovivo/HD_BBB_4/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_4/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB HD: Quarto Cordel" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Quarto Cordel
-http://lb.kstream.org/aovivo/HD_BBB_3/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_3/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB HD: Sala de Estar" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB HD: Sala de Estar
-http://lb.kstream.org/aovivo/HD_BBB_7/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_7/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB: 1 [Alter]" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB: 1 [Alter]
-http://lb.kstream.org/aovivo/HD_BBB_1_ALTER/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_1_ALTER/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB: 2 [Alter]" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB: 2 [Alter]
-http://lb.kstream.org/aovivo/HD_BBB_2_ALTER/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_2_ALTER/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
 #EXTINF:-1 type="stream" tvg-id="BBB: 3 [Alter]" tvg-logo="https://i.ibb.co/nCwjc1P/BBB-logo-300x123.png" group-title="BBB 21",BBB: 3 [Alter]
-http://lb.kstream.org/aovivo/HD_BBB_3_ALTER/video.m3u8?token=3b066a0b124504c8a26fc87157453c9d
+http://lb.kstream.org/aovivo/HD_BBB_3_ALTER/video.m3u8?token=e265672ed9a03e8225ee55c6b4055aa2
